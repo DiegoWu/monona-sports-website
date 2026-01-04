@@ -1,0 +1,74 @@
+Privacy Notice
+Last updated: January 2026
+Developed by: Ti Wu and Hyuntaek Oh
+This Privacy Notice explains how we collect, use, store, and protect user information when you use our mobile application (“the App”).
+By using the App, you agree to the practices described in this Privacy Notice.
+1. Information We Collect
+A. Information You Provide
+We may collect information you voluntarily provide, including:
+Name or nickname
+Email address
+Player profile details (e.g., height, dominant hand, position)
+Feedback or support messages
+You may choose not to provide certain information, but some features may be unavailable.
+B. Video & Motion Data
+If you choose to upload or record videos for analysis:
+Basketball shooting videos
+Extracted body keypoints and motion data derived from the video
+Important:
+We do not perform facial recognition
+We do not identify individuals
+Videos are used only for performance analysis
+C. Automatically Collected Data
+We may automatically collect limited technical data such as:
+Device type and OS version
+App usage events (e.g., feature usage, crashes)
+Anonymous identifiers for analytics
+This data is used only to improve app stability and performance.
+2. How We Use Your Information
+We use collected information to:
+Analyze basketball shooting mechanics
+Provide AI-generated performance feedback
+Improve model accuracy and app experience
+Maintain app functionality and security
+Respond to support requests
+We do not use your data for advertising or profiling.
+3. AI & Machine Learning Usage
+Our App uses AI and computer-vision models to analyze basketball shooting form.
+Models process uploaded videos or derived motion data
+AI outputs are performance feedback only
+Data is not used for identity recognition
+Training datasets are anonymized when used
+4. Data Storage & Retention
+Videos and analysis results are stored only as long as necessary to provide the service
+Users may delete their videos and data at any time
+Deleted data is permanently removed from active systems within a reasonable timeframe
+5. Data Sharing
+We do not sell or rent personal data.
+We may share limited data only with:
+Secure cloud service providers (e.g., storage, analytics)
+Legal authorities if required by law
+All third-party services are required to follow strict confidentiality and security obligations.
+6. Children’s Privacy
+The App is not directed at children under 13.
+We do not knowingly collect personal data from children.
+If such data is discovered, it will be deleted promptly.
+7. Your Rights
+Depending on your location, you may have the right to:
+Access your data
+Request correction or deletion
+Withdraw consent
+Requests can be made by contacting us directly.
+8. Security
+We take reasonable measures to protect user data, including:
+Encrypted data transmission
+Secure cloud infrastructure
+Access controls
+No system is 100% secure, but we continuously improve protections.
+9. Changes to This Policy
+We may update this Privacy Notice from time to time.
+Changes will be reflected by updating the “Last updated” date.
+10. Contact Us
+If you have questions or requests regarding this Privacy Notice:
+Email: support@monona-sports.com
+Developers: Ti Wu & Hyuntaek Oh
