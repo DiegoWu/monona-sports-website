@@ -110,6 +110,11 @@
             background: #fff;
             color: #000;
         }
+        .calendly-inline-widget {
+            margin-top: 24px;
+            border-radius: 14px;
+            overflow: hidden;
+        }
         @media (max-width: 600px) {
             .profile-img {
                 width: 140px;
@@ -141,6 +146,10 @@
             <a href="https://apps.apple.com/us/app/monona-coach/id6754575963" target="_blank" title="Download App"><i class="fa fa-arrow-down"></i></a>
         </div>
         <button class="contact-btn" onclick="window.location.href='mailto:support@monona-sports.com'">Leave your contact details</button>
+        <!-- Calendly inline widget begin -->
+        <div class="calendly-inline-widget" data-url="https://calendly.com/diego-monona-sports/30min" style="min-width:320px;height:700px;"></div>
+        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+        <!-- Calendly inline widget end -->
     </div>
 </body>
 </html>
