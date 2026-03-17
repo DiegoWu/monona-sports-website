@@ -5,21 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Monona.ai - AI Basketball Shooting Coach</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
     <header>
         <nav class="navbar">
             <div class="container">
-                <div class="logo">
+                <a href="index.html" class="logo">
                     <img src="images/monona_white.png" alt="Monona.ai">
-                    <text class="logo-text">Monona.ai</text>
-                </div>
-                <ul class="nav-links">
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#features">Features</a></li>
-                    <li><a href="#how-it-works">How It Works</a></li>
-                    <li><a href="#download">Download</a></li>
-                </ul>
+                    <span class="logo-text">Monona.ai</span>
+                </a>
+                <a href="book-demo.html" class="nav-book-demo">Book a demo</a>
             </div>
         </nav>
     </header>
@@ -27,8 +23,8 @@
     <section id="home" class="hero">
         <div class="container">
             <div class="hero-content">
-                <h1>Achieve Your Dream Form</h1>
-                <p class="tagline">Monona.ai analyzes your shooting form and matches it against Pro Players</p>
+                <h1 class="hero-title"><span id="typewriter-line1"></span><span class="cursor">|</span></h1>
+                <p class="tagline"><span id="typewriter-line2"></span></p>
                 <a href="#download" class="cta-button">Get Started</a>
             </div>
         </div>
@@ -141,6 +137,13 @@
         </div>
     </section>
 
+    <section id="coaches-marketplace" class="coaches-marketplace">
+        <div class="container">
+            <h2>Coaches Marketplace</h2>
+            <p class="coming-soon">Coming Soon…</p>
+        </div>
+    </section>
+
     <section id="how-it-works" class="how-it-works">
         <div class="container">
             <h2>How Monona.ai Works</h2>
@@ -181,14 +184,23 @@
     </section>
 
     <footer>
-        <div class="container">
-            <p>&copy; 2025 Monona.ai. All rights reserved.</p>
-            <div class="footer-links">
-                <a href="privacy.html" class="privacy-link">Privacy Notice</a>
+        <div class="container footer-container">
+            <div class="footer-left">
+                <p class="footer-copyright">&copy; 2025 Monona.ai. All rights reserved.</p>
+                <div class="footer-links">
+                    <a href="privacy.html" class="privacy-link">Privacy Notice</a>
+                </div>
+                <div class="support-info">
+                    <p>Support: support@monona-sports.com</p>
+                </div>
             </div>
-            <div class="support-info">
-                <p>Support: support@monona-sports.com</p> 
-            </div> 
+            <div class="footer-socials">
+                <a href="https://monona-sports.com" target="_blank" rel="noopener" title="Website"><i class="fa-solid fa-globe"></i></a>
+                <a href="https://www.instagram.com/monona_coach/" target="_blank" rel="noopener" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.tiktok.com/@monona.coach.app" target="_blank" rel="noopener" title="TikTok"><i class="fa-brands fa-tiktok"></i></a>
+                <a href="https://discord.gg/qnTrdxnuF7" target="_blank" rel="noopener" title="Discord"><i class="fa-brands fa-discord"></i></a>
+                <a href="https://apps.apple.com/us/app/monona-coach/id6754575963" target="_blank" rel="noopener" title="Download App"><i class="fa-solid fa-arrow-down"></i></a>
+            </div>
         </div>
     </footer>
 

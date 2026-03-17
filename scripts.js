@@ -2,6 +2,8 @@ document.addEventListener('DOMContentLoaded', function() {
     setupSmoothScrolling();
     setupNavbarScrollEffect();
     setupImageCarousel();
+    setupTypewriter();
+    setupMobileNav();
 });
 
 function setupSmoothScrolling() {
@@ -34,12 +36,64 @@ function setupNavbarScrollEffect() {
         const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
         
         if (scrollTop > 100) {
-            navbar.style.backgroundColor = '#0d0d0d';
+            navbar.style.backgroundColor = '#081420';
         } else {
-            navbar.style.backgroundColor = '#1a1a1a';
+            navbar.style.backgroundColor = '';
         }
         
         lastScrollTop = scrollTop;
+    });
+}
+
+function setupTypewriter() {
+    const line1El = document.getElementById('typewriter-line1');
+    const line2El = document.getElementById('typewriter-line2');
+    const titleEl = document.querySelector('.hero-title');
+    if (!line1El || !line2El) return;
+
+    const line1 = 'Achieve Your Dream Form';
+    const line2 = 'Monona.ai analyzes your shooting form and matches it against Pro Players';
+    const charDelay = 55;
+    const pauseBetweenLines = 400;
+
+    function typeText(el, text, delay, cb) {
+        let i = 0;
+        function tick() {
+            if (i < text.length) {
+                el.textContent += text[i];
+                i++;
+                setTimeout(tick, delay);
+            } else if (cb) {
+                setTimeout(cb, pauseBetweenLines);
+            }
+        }
+        tick();
+    }
+
+    typeText(line1El, line1, charDelay, function() {
+        typeText(line2El, line2, charDelay, function() {
+            if (titleEl) titleEl.classList.add('done');
+        });
+    });
+}
+
+function setupMobileNav() {
+    const toggle = document.querySelector('.nav-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    if (!toggle || !navLinks) return;
+
+    toggle.addEventListener('click', function() {
+        toggle.classList.toggle('open');
+        navLinks.classList.toggle('open');
+        document.body.style.overflow = navLinks.classList.contains('open') ? 'hidden' : '';
+    });
+
+    navLinks.querySelectorAll('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+            toggle.classList.remove('open');
+            navLinks.classList.remove('open');
+            document.body.style.overflow = '';
+        });
     });
 }
 
