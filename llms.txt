@@ -1,0 +1,29 @@
+# Monona Coach
+
+> Monona Coach is an AI basketball shooting coach that analyzes your form, compares you to 20+ NBA players, and gives personalized drills. Free on iOS.
+
+## Product
+
+- [Homepage](https://monona-sports.com/): Product overview, features, testimonials, FAQ, and download.
+- [Download on iOS](https://apps.apple.com/us/app/monona-coach/id6754575963): Free Monona Coach app on the Apple App Store.
+
+## Site pages
+
+- [Book a demo](https://monona-sports.com/book-demo.html): Schedule a call to see the app in action.
+- [Team](https://monona-sports.com/team.html): Co-founders Ti Wu (Diego) and Raphael (Hyuntaek) Oh.
+- [Privacy Notice](https://monona-sports.com/privacy.html): How Monona Coach collects and uses data.
+- [Linktree](https://monona-sports.com/linktree/): Social links and quick actions for bio pages.
+
+## Homepage sections
+
+- [Features](https://monona-sports.com/#features): NBA comparison, AI coaching, personalized drills, and analytics.
+- [How it works](https://monona-sports.com/#how-it-works): Record, analyze, compare, and improve in four steps.
+- [FAQ](https://monona-sports.com/#faq): Common questions about Monona Coach as an AI basketball shooting coach.
+- [Download](https://monona-sports.com/#download): Get the free iOS app.
+
+## Contact and social
+
+- [Support](mailto:support@monona-sports.com): support@monona-sports.com
+- [Instagram](https://www.instagram.com/monona_coach/): @monona_coach
+- [TikTok](https://www.tiktok.com/@monona.coach.app): @monona.coach.app
+- [Discord](https://discord.gg/qnTrdxnuF7): Community server

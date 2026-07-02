@@ -25,4 +25,14 @@
         <lastmod>2026-05-21</lastmod>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://monona-sports.com/llms.txt</loc>
+        <lastmod>2026-05-21</lastmod>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://monona-sports.com/llms-full.txt</loc>
+        <lastmod>2026-05-21</lastmod>
+        <priority>0.5</priority>
+    </url>
 </urlset>

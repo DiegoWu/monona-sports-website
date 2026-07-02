@@ -1,3 +1,6 @@
 User-agent: *
 Allow: /
 Sitemap: https://monona-sports.com/sitemap.xml
+
+# LLM context: https://monona-sports.com/llms.txt
+# Full content: https://monona-sports.com/llms-full.txt

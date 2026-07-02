@@ -1,0 +1,252 @@
+## https://monona-sports.com/
+
+# Monona Coach
+
+Train Like the Pros with an AI Basketball Shooting Coach.
+
+Monona Coach analyzes your shooting form, matches you to NBA players, and gives phase-by-phase feedback so you can improve faster.
+
+**Stats:** 1000+ shots tracked | 500+ players and coaches | 20+ NBA pros | 6 shot phases analyzed
+
+## Trusted by players and coaches
+
+> The slow-motion breakdown lets me show my players exactly where their form is slipping. The NBA comparisons really engage my 12- and 13-year-olds, and it's a tool I actually want to use in training.
+> — Shooting Coach and Parent
+
+> I've been testing this for a while and it's the real deal. It matched me to Curry's form and the results showed up. A few minor hiccups, but nothing that stopped me from using it.
+> — Anonymous Player
+
+> Completely free, and it analyzes your shot with pro comparisons, percentages, and angles. Pick a model player or get auto-matched, and either way you get a clear picture of what's working and what isn't.
+> — Anonymous Player
+
+## Your AI basketball shooting coach toolkit
+
+Pro comparison, AI coaching, personalized drills, and deep analytics, built for players who want real improvement.
+
+- **20+ NBA Pros:** Choose your model player and study the form traits that make them elite.
+- **Auto-Matched Style:** Get an instant similarity score and see how your shot compares phase by phase.
+- **Phase Breakdown:** Skeletal tracking and joint angles at setpoint, rising, release, and more.
+- **AI Coaching:** Personalized advice across every shot phase, clear and actionable with no jargon.
+- **Pro-Level Analytics:** Release timing, windup paths, and angle gauges benchmarked against your pro match.
+- **Share Highlights:** Export your match cards and share your progress on social media.
+- **Personalized Drills (BETA):** Daily drills built from your analysis: balance, flat arch, follow-through, and more.
+
+### Personalized Drills and Workout Plans
+
+Monona builds a daily workout plan from your shot analysis, not generic drills, but exercises targeting your specific form issues.
+
+- Your workout plan: a curated daily list based on what your analysis finds
+- Targeted categories: balance, flat arch, follow-through, hand placement, setpoint, and more
+- Track progress: completion ring shows how many drills you've finished today
+- Actionable drills: e.g. "Keep guide hand off the ball", "One-hand follow-through"
+
+## How Monona Coach Works
+
+Four steps from recording to improvement.
+
+1. **Record Your Shot:** Film your shooting form from a side view using your smartphone camera.
+2. **AI Analysis:** Our AI processes your video, normalizes the data, and breaks down each phase of your shot.
+3. **Pro Comparison:** Your form is matched against 20+ professional players to find your best style fit.
+4. **Get Insights:** Review coaching advice, visual graphs, and replay to improve your game.
+
+## Frequently asked questions
+
+### What is an AI basketball shooting coach?
+
+An AI basketball shooting coach uses computer vision and machine learning to analyze your shooting form from video, compare it to professional players, and give personalized feedback on each phase of your shot.
+
+### How does Monona Coach analyze my shot?
+
+Record your shot from a side view with your phone. Monona Coach tracks body keypoints, breaks your motion into phases like setup and release, and compares your form to NBA player models with similarity scores and coaching tips.
+
+### Is Monona Coach free?
+
+Yes. Monona Coach is free to download on iOS. You can record shots, get AI analysis, pro comparisons, and personalized drills at no cost.
+
+### Can I compare my form to NBA players?
+
+Yes. Monona Coach matches your shot to 20+ NBA players or lets you pick a model player. You get phase-by-phase comparison, similarity percentages, and visual replay side by side with pros.
+
+### What do I need to record my shot?
+
+Use your iPhone to film from a side view with one shooter and one basketball in frame. A clear view of your full shooting motion from setup through follow-through gives the best results.
+
+## Download
+
+Ready to Elevate Your Game? Download Monona Coach today and start training like a pro.
+
+- iOS: https://apps.apple.com/us/app/monona-coach/id6754575963
+- Android: Coming Soon
+
+**Support:** support@monona-sports.com
+
+---
+
+## https://monona-sports.com/team.html
+
+# Team
+
+## Ti Wu (Diego)
+
+Co-Founder
+
+LinkedIn: https://www.linkedin.com/in/diego-wu-45bb40222/
+
+## Raphael (Hyuntaek) Oh
+
+Co-Founder
+
+LinkedIn: https://www.linkedin.com/in/raphael-oh-3155b1332/
+
+---
+
+## https://monona-sports.com/book-demo.html
+
+# Schedule a call
+
+Book a demo with Monona Coach to see how the AI basketball shooting coach analyzes form, compares players to NBA pros, and delivers personalized drills.
+
+Schedule a 30-minute call via Calendly: https://calendly.com/diego-monona-sports/30min
+
+---
+
+## https://monona-sports.com/privacy.html
+
+# Privacy Notice
+
+**Last updated:** January 2026
+**Developed by:** Ti Wu and Hyuntaek Oh
+
+This Privacy Notice explains how we collect, use, store, and protect user information when you use our mobile application ("the App").
+
+By using the App, you agree to the practices described in this Privacy Notice.
+
+## 1. Information We Collect
+
+### A. Information You Provide
+
+We may collect information you voluntarily provide, including:
+
+- Name or nickname
+- Email address
+- Player profile details (e.g., height, dominant hand, position)
+- Feedback or support messages
+
+You may choose not to provide certain information, but some features may be unavailable.
+
+### B. Video and Motion Data
+
+If you choose to upload or record videos for analysis:
+
+- Basketball shooting videos
+- Extracted body keypoints and motion data derived from the video
+
+**Important:**
+
+- We do not perform facial recognition
+- We do not identify individuals
+- Videos are used only for performance analysis
+
+### C. Automatically Collected Data
+
+We may automatically collect limited technical data such as:
+
+- Device type and OS version
+- App usage events (e.g., feature usage, crashes)
+- Anonymous identifiers for analytics
+
+This data is used only to improve app stability and performance.
+
+## 2. How We Use Your Information
+
+We use collected information to:
+
+- Analyze basketball shooting mechanics
+- Provide AI-generated performance feedback
+- Improve model accuracy and app experience
+- Maintain app functionality and security
+- Respond to support requests
+
+We do not use your data for advertising or profiling.
+
+## 3. AI and Machine Learning Usage
+
+Our App uses AI and computer-vision models to analyze basketball shooting form.
+
+- Models process uploaded videos or derived motion data
+- AI outputs are performance feedback only
+- Data is not used for identity recognition
+- Training datasets are anonymized when used
+
+## 4. Data Storage and Retention
+
+- Videos and analysis results are stored only as long as necessary to provide the service
+- Users may delete their videos and data at any time
+- Deleted data is permanently removed from active systems within a reasonable timeframe
+
+## 5. Data Sharing
+
+We do not sell or rent personal data.
+
+We may share limited data only with:
+
+- Secure cloud service providers (e.g., storage, analytics)
+- Legal authorities if required by law
+
+All third-party services are required to follow strict confidentiality and security obligations.
+
+## 6. Children's Privacy
+
+- The App is not directed at children under 13
+- We do not knowingly collect personal data from children
+- If such data is discovered, it will be deleted promptly
+
+## 7. Your Rights
+
+Depending on your location, you may have the right to:
+
+- Access your data
+- Request correction or deletion
+- Withdraw consent
+
+Requests can be made by contacting us directly.
+
+## 8. Security
+
+We take reasonable measures to protect user data, including:
+
+- Encrypted data transmission
+- Secure cloud infrastructure
+- Access controls
+
+No system is 100% secure, but we continuously improve protections.
+
+## 9. Changes to This Policy
+
+We may update this Privacy Notice from time to time. Changes will be reflected by updating the "Last updated" date.
+
+## 10. Contact Us
+
+If you have questions or requests regarding this Privacy Notice:
+
+- Email: support@monona-sports.com
+- Developers: Ti Wu and Hyuntaek Oh
+
+---
+
+## https://monona-sports.com/linktree/
+
+# Monona Coach
+
+**Tagline:** Achieve Your Dream Form Day 1
+
+## Links
+
+- Website: https://monona-sports.com
+- Instagram: https://www.instagram.com/monona_coach/
+- TikTok: https://www.tiktok.com/@monona.coach.app
+- Discord: https://discord.gg/qnTrdxnuF7
+- Download App (iOS): https://apps.apple.com/us/app/monona-coach/id6754575963
+- Coffee chat (book a demo): https://monona-sports.com/book-demo.html
+- Team: https://monona-sports.com/team.html
+- Contact: support@monona-sports.com
