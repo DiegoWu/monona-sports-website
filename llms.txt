@@ -1,10 +1,10 @@
 # Monona Coach
 
-> Monona Coach is an AI basketball shooting coach that analyzes your form, compares you to 20+ NBA players, and gives personalized drills. Free on iOS.
+> Find why your shot is inconsistent, compare mechanics to pro forms, and get drills for release timing, balance, elbow path, and follow-through. Free on iOS.
 
 ## Product
 
-- [Homepage](https://monona-sports.com/): Product overview, features, testimonials, FAQ, and download.
+- [Homepage](https://monona-sports.com/): Product overview, form analysis, testimonials, FAQ, and download.
 - [Download on iOS](https://apps.apple.com/us/app/monona-coach/id6754575963): Free Monona Coach app on the Apple App Store.
 
 ## Site pages
@@ -16,8 +16,11 @@
 
 ## Homepage sections
 
+- [Fix your form](https://monona-sports.com/#why-monona): AI video analysis to find why your shot is inconsistent.
 - [Features](https://monona-sports.com/#features): NBA comparison, AI coaching, personalized drills, and analytics.
+- [Who it's for](https://monona-sports.com/#who-its-for): Players, parents, trainers, and AAU coaches.
 - [How it works](https://monona-sports.com/#how-it-works): Record, analyze, compare, and improve in four steps.
+- [Compare options](https://monona-sports.com/#compare): AI shooting coach vs shot tracker vs human coach.
 - [FAQ](https://monona-sports.com/#faq): Common questions about Monona Coach as an AI basketball shooting coach.
 - [Download](https://monona-sports.com/#download): Get the free iOS app.
 

@@ -4,9 +4,17 @@
 
 Train Like the Pros with an AI Basketball Shooting Coach.
 
-Monona Coach analyzes your shooting form, matches you to NBA players, and gives phase-by-phase feedback so you can improve faster.
+Find exactly why your shot is inconsistent, compare your mechanics to pro-level forms, and get drills to fix release timing, balance, elbow path, and follow-through.
 
 **Stats:** 1000+ shots tracked | 500+ players and coaches | 20+ NBA pros | 6 shot phases analyzed
+
+## Fix your shooting form with AI video analysis
+
+Most shooters know something feels off but cannot pin down when it breaks down. Monona Coach breaks your motion into phases, flags where your form drifts from your best reps, and shows you the same angles pros use.
+
+### Improve consistency, not just similarity score
+
+A single match percentage does not tell the full story. Monona tracks phase-by-phase drift across setup, release, and follow-through, then assigns drills so your next session fixes the real issue.
 
 ## Trusted by players and coaches
 
@@ -21,7 +29,7 @@ Monona Coach analyzes your shooting form, matches you to NBA players, and gives 
 
 ## Your AI basketball shooting coach toolkit
 
-Pro comparison, AI coaching, personalized drills, and deep analytics, built for players who want real improvement.
+Diagnose inconsistency, compare mechanics to pros, and get drills for release timing, balance, elbow path, and follow-through.
 
 - **20+ NBA Pros:** Choose your model player and study the form traits that make them elite.
 - **Auto-Matched Style:** Get an instant similarity score and see how your shot compares phase by phase.
@@ -49,6 +57,28 @@ Four steps from recording to improvement.
 3. **Pro Comparison:** Your form is matched against 20+ professional players to find your best style fit.
 4. **Get Insights:** Review coaching advice, visual graphs, and replay to improve your game.
 
+## Who it's for
+
+Players, parents, trainers, and AAU coaches who want clear answers on shooting mechanics.
+
+- **Players:** Find out why your make rate swings game to game and get drills that target your actual form breaks.
+- **Parents:** See exactly what to work on at home with objective feedback.
+- **Trainers:** Back your coaching with phase breakdowns and pro comparisons.
+- **AAU coaches:** Show slow-motion breakdowns in practice and give every player a consistent standard.
+
+## Why use AI instead of guessing from slow-motion video?
+
+Slow-mo helps you see motion, but it is easy to miss timing shifts, angle changes, and session-to-session drift. Monona normalizes your joints, compares every phase to pro models, and surfaces repeatable metrics you can track over time.
+
+### AI basketball shooting coach vs shot tracker vs human coach
+
+| | Monona Coach (AI) | Shot tracker | Human coach |
+|---|-------------------|--------------|-------------|
+| Form mechanics | Phase-by-phase joint analysis | Make/miss counts only | Expert eye, subjective |
+| Pro comparison | 20+ NBA models | Not available | Depends on coach |
+| Drills | Personalized from analysis | Not available | Session-based |
+| Cost / access | Free, anytime on phone | Varies | Scheduled, paid |
+
 ## Frequently asked questions
 
 ### What is an AI basketball shooting coach?
@@ -71,9 +101,17 @@ Yes. Monona Coach matches your shot to 20+ NBA players or lets you pick a model 
 
 Use your iPhone to film from a side view with one shooter and one basketball in frame. A clear view of your full shooting motion from setup through follow-through gives the best results.
 
+### Why use AI instead of guessing from slow-motion video?
+
+Slow-motion alone is subjective and easy to misread. Monona tracks joint angles and timing across every shot phase, compares them to pro models, and gives repeatable metrics so you know what to fix session to session.
+
+### How is an AI basketball shooting coach different from a shot tracker or human coach?
+
+Shot trackers count makes and misses but not mechanics. Human coaches bring expertise but feedback varies by session. Monona analyzes form phase by phase, compares you to 20+ NBA players, and assigns personalized drills. It complements trackers and coaches rather than replacing them.
+
 ## Download
 
-Ready to Elevate Your Game? Download Monona Coach today and start training like a pro.
+Find what's breaking your shot and get drills to fix it. Download Monona Coach free on iOS.
 
 - iOS: https://apps.apple.com/us/app/monona-coach/id6754575963
 - Android: Coming Soon
