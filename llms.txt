@@ -10,7 +10,6 @@
 ## Site pages
 
 - [Book a demo](https://monona-sports.com/book-demo.html): Schedule a call to see the app in action.
-- [Team](https://monona-sports.com/team.html): Co-founders Ti Wu (Diego) and Raphael (Hyuntaek) Oh.
 - [Privacy Notice](https://monona-sports.com/privacy.html): How Monona Coach collects and uses data.
 - [Linktree](https://monona-sports.com/linktree/): Social links and quick actions for bio pages.
 

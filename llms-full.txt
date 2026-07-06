@@ -121,23 +121,6 @@ Find what's breaking your shot and get drills to fix it. Download Monona Coach f
 
 **Support:** support@monona-sports.com
 
----
-
-## https://monona-sports.com/team.html
-
-# Team
-
-## Ti Wu (Diego)
-
-Co-Founder
-
-LinkedIn: https://www.linkedin.com/in/diego-wu-45bb40222/
-
-## Raphael (Hyuntaek) Oh
-
-Co-Founder
-
-LinkedIn: https://www.linkedin.com/in/raphael-oh-3155b1332/
 
 ---
 
@@ -289,5 +272,4 @@ If you have questions or requests regarding this Privacy Notice:
 - Discord: https://discord.gg/qnTrdxnuF7
 - Download App (iOS): https://apps.apple.com/us/app/monona-coach/id6754575963
 - Coffee chat (book a demo): https://monona-sports.com/book-demo.html
-- Team: https://monona-sports.com/team.html
 - Contact: support@monona-sports.com
